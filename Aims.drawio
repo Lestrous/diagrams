@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:25:38.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RAunFD7qwgUGVEmm0Wr5" version="16.6.3" type="github"><diagram id="GFqWhvAD9FjC-kt_BsL-" name="Page-1">7VnbjpswEP0aHlthLrk8BpJ2pd6kzVa7r97ggCXHpsZpLl/fMdgBCqmSdruRNpEQGo/Hg2fOsT0yjh+vth8lzrMvIiHM8dxk6/hTx/NQ4HmOftxkV2lGblApUkkTY1Qr5nRPjNI12jVNSNEyVEIwRfO2ciE4JwvV0mEpxaZtthSs/dUcp6SjmC8w62ofaaIyE4U3rPV3hKaZ/TIajKueFbbGJpIiw4nYNFT+zPFjKYSqpNU2Jkwnz+alGvfhSO9hYpJwdcqAT/u7b/FT/nX/MELzyeP3H2HG3xkvPzFbm4Af8DPEXs1Y7WwaYPK5FlXZ60eFwlIZtHwXFJB/hSknEhSobDOG84KW5tPSIqMs+Yx3Yq2sI9uKljB6br6mR2NGUw7yAmLTLiMzTSIV2R6NHx2yCnQkYkWU3IGJHWApZZiILDCbGld/ZHRZE9PQKLHhUnrwXacbBJPxM7LvdbL/58Tfa/5EmZB0r9PNTGabYJTtDV0xzIGYOPlNFYlyIWqVErmRGFkqIz4LpcTKNKTJgduLZyJF/oBlSqzJkjIWCyY0Bbjgmia5oFyVWQsjeCCPsfs+dEKILIY2qtvwaHOpYsELJYFK2i3BhdqQQp3KgOMc79LC0MA/kQXB/yKB3yXBzHNGgTMeHGUDxKwoZvew42GelisyUytmVs8mo4rMc7zQphvYl6v1qfdHXOPXA9d5lBAAxpKVW1pGk4Twf0LJ60epAUt4JirGWZ2ks71hBrsPxwqWzZonRQfqwzz/Hv2giz4kdzLQ7ygs35EDqI7iGxnsTh52lywavyg5TnL3CuwI+9mBSl5MyvesxZGmHs43LQQNKk0bsm8NKmXTeHbjmuXaAfUmO4KXJdsp7l6BbINbNXLxamR46Wpk2CEBuqbNYHCdVcioZ+kPmCZ6kWMOclqS3pw9cNJMGgfJsHFyjMpez1Ys1aHiGWE8tScW9Nqu5oFUe5jZ70M4rSncuHh1RdC4pwgCiljy3RhxfaWKvcq51SoXrFUOF2oXK1ZQ9/ryOA/e4H6A3H6A3nq5gs64OL0i2K+uMkA9d6c3HrypegCa9S+yyrz+0ejPfgE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:50:05.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5rCL5rUH0MJX1OqQewpg" version="16.6.3" type="github">
+  <diagram id="GFqWhvAD9FjC-kt_BsL-" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-1" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="110" y="120" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KzHOCXpNzT81SAWUq5hn-1" vertex="1">
+          <mxGeometry y="30" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-3" value="№" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-2" vertex="1">
+          <mxGeometry width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-4" value="Цель" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-2" vertex="1">
+          <mxGeometry x="50" width="190" height="40" as="geometry">
+            <mxRectangle width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-5" value="Сколько денег надо" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-2" vertex="1">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KzHOCXpNzT81SAWUq5hn-1" vertex="1">
+          <mxGeometry y="70" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-7" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-6" vertex="1">
+          <mxGeometry width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-8" value="&lt;span&gt;Съездить в Норвегию&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-6" vertex="1">
+          <mxGeometry x="50" width="190" height="40" as="geometry">
+            <mxRectangle width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-9" value="хз" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-6" vertex="1">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KzHOCXpNzT81SAWUq5hn-1" vertex="1">
+          <mxGeometry y="110" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-11" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-10" vertex="1">
+          <mxGeometry width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-12" value="Швейцария, Энгандин" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-10" vertex="1">
+          <mxGeometry x="50" width="190" height="40" as="geometry">
+            <mxRectangle width="190" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzHOCXpNzT81SAWUq5hn-13" value="&lt;span&gt;хз&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KzHOCXpNzT81SAWUq5hn-10" vertex="1">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
